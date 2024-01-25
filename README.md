@@ -1,7 +1,11 @@
 # 👨‍💻 About Me
 Hi, I am Moshe 👋😄
 <br>
-B.Sc Computer Science Graduate at Hadassah Academic College.
+Software Engineer💻
+<br>
+B.Sc. Computer Science Graduate at Hadassah Academic College.
+<br>
+M.Sc. Computer Science Student at The Open University.
 <br>
 I am mostly skilled in C | C++ | Python.
 <br><br>
